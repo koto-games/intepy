@@ -1,6 +1,6 @@
 # intepy
 
-## 
+## yes_no()
 
 ```bash
 intepy.yes_no('ты любишь кошек')
