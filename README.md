@@ -2,11 +2,11 @@
 
 ## yes_no()
 
-```bash
+```Python
 intepy.yes_no('ты любишь кошек')
 ```
 при выполнении этого кода ты получаешь
-```bash
+```python
 ты любишь кошек (Y/N)?
 ```
 если ввести Y то функция выдаст True
@@ -15,7 +15,7 @@ intepy.yes_no('ты любишь кошек')
 ## colour()
 
 меняет цвет на синий
-```bash
+```python
 intepy.colour(1)
 ```
 
@@ -33,7 +33,7 @@ intepy.colour(1)
 ## cls()
 
 очищает консоль
-```bash
+```python
 intepy.cls()
 ```
 
