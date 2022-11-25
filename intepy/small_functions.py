@@ -1,7 +1,7 @@
 import os
 
-def colour(www='',www2=''):
-    os.system('color '+str(www)+str(www2))
+def colour(www=''):
+    os.system('color '+str(www))
  
 def cls():
     os.system('cls')
